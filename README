@@ -1,0 +1,8 @@
+clone the project
+
+if you don't have it install yarn:
+    npm install --global yarn
+
+go into each folder and run install the dependencies by typing yarn
+
+start each app up by running yarn start
